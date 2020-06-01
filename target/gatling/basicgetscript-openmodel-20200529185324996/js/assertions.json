@@ -1,0 +1,10 @@
+{
+  "simulation": "injectionprofile.BasicGetScript_OpenModel",
+  "simulationId": "basicgetscript-openmodel",
+  "start": 1590778404996,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

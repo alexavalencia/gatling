@@ -1,0 +1,10 @@
+{
+  "simulation": "basicpackage.BasicGetScript",
+  "simulationId": "basicgetscript",
+  "start": 1590682366087,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

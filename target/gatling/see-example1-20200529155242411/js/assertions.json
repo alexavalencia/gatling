@@ -1,0 +1,10 @@
+{
+  "simulation": "otherprotocol.SEE_eXAMPLE1",
+  "simulationId": "see-example1",
+  "start": 1590767562411,
+  "description": "",
+  "scenarios": ["ssescenario"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	basicpackage.BasicCheckScript	basiccheckscript	1590682758677	 	3.0.3
+USER	basicgetscenario	1	START	1590682760052	1590682760052
+REQUEST	1		basicgetrequest	1590682760076	1590682760728	KO	status.find.is(201), but actually found 200
+USER	basicgetscenario	1	END	1590682760052	1590682760823

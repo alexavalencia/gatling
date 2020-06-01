@@ -1,0 +1,5 @@
+RUN	otherprotocol.SEE_eXAMPLE1	see-example1	1590767562411	 	3.3.1
+USER	ssescenario	1	START	1590767563869	1590767563869
+REQUEST	1		sse_req	1590767563928	1590767564311	KO	Socket closed
+ERROR	close connection: Client issued close order but SSE stream was already crashed: Socket closed 	1590767569392
+USER	ssescenario	1	END	1590767563869	1590767569403
